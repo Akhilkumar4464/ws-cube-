@@ -1,0 +1,118 @@
+*{
+    font-family: "Montserrat", serif; 
+
+}
+.inner{
+    background:linear-gradient(#0ACEFE,#15b9cf);
+    max-height: fit-content;
+}
+.whatsappbtn{
+    border:1px solid #4CAF50;
+    padding:10px 18px ;
+    color: #4CAF50;
+    font-size: 16px;
+}
+
+.whatsappbtn i{
+    color: #4CAF50;
+}
+.whatsappbtn:hover{
+    border:1px solid #4CAF50;
+}
+.call{
+    background:linear-gradient( to right, #0ACEFE,#2699FB);
+    padding:10px 18px ;
+}
+.bannerContent h1{
+ font-size: 40px;
+ font-weight: 700;
+}
+.bannerContent h1 span{
+    color: #104ce2;
+}
+.bannerContent p{
+    font-size: 22px;
+    font-weight: 400;
+    
+}
+.btn-em {
+ border-color: #2699FB;
+ border-radius: 3px;
+ color: #755757;
+ padding : 10px 20px;
+ margin-top: 39px;
+
+
+
+}
+.btn-bm{
+border-color: aqua;
+border-radius: 3px;
+color: #936d6d;
+padding: 10px 20px;
+
+margin-top: 39px;
+
+}
+
+.btn-outer{
+    margin-top: 12px;
+    justify-content: end;
+}
+
+.row h1 span {
+    color: #104ce2;
+}
+
+.row p span{
+    color: #04a1b5;
+}
+
+.btn-inner {
+    margin-top: 12px;
+    margin-right: auto;
+}
+
+.bannerform {
+ padding: 30px;
+ border-radius: 10px;
+
+}
+
+.bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerform button{
+    background:linear-gradient( to right, #0ACEFE,#2699FB);
+    padding:10px 0px ;
+width: 100%;
+
+border: none;
+color:white;
+}
+.counterSection h2{
+font-size: 30px;
+font-weight: 700;
+color: #2669fb;
+}
+.highlight-section{
+    background-color:#f7faff ;
+}
+.highlight-section h2{
+    color: #0A2134;
+    font-size: 36px ;
+    font-weight: 700;
+}
+
+#mobileMenu ul li a{
+    color: #2789da;
+    font-weight: bold;
+    margin-right: 15px;
+}
+.button-bg{
+border-radius: 12px;
+
+border: 2px solid #080909;
+}

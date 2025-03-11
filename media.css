@@ -1,0 +1,100 @@
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1170px;
+        max-height: 1000px;
+    }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 1000px) {
+    .btn-outer {
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        left: 0px;
+        justify-content: center !important;
+
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .btn-inner {
+        position: relative;
+        justify-content: center !important;
+        padding-top: 12px;
+        width: 100%;
+        left: 0px;
+    }
+
+    .watsappbtn,
+    .call {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+
+    .bannerContent h1 {
+        font-size: 32px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 36px;
+    }
+
+    .bannerContent br {
+        display: none;
+    }
+
+    .bannerContent p {
+        font-size: 15px;
+        font-weight: 400;
+        text-align: center;
+        line-height: 25px;
+
+    }
+
+    .bannerform {
+        padding: 20px;
+
+    }
+
+    .btn-em {
+        width: 100%;
+    }
+
+    .btn-bm {
+        width: 100%;
+    }
+
+    .highlight-section h2 {
+
+        font-size: 28px;
+
+    }
+
+
+}
+
+@media only screen and (max-width:576px) and(max-width:768px) {
+    .list-unstyled li {
+        margin-right: 12px;
+        padding: 0%;
+        text-align: center;
+        justify-items: center;
+    }
+}
+
+@media only screen and (max-width:430px) and(max-width:932px) {
+    .btn-em {
+        width: 100%;
+    }
+
+    .btn-bm {
+        width: 100%;
+    }
+}
